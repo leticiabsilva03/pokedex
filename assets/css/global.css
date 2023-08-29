@@ -1,0 +1,12 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.content {
+  padding: 1rem; <!-- Define distância entre conteúdo e suas bordas -->
+
+}
+
+.content h1 {
+  margim: 0;
+}
